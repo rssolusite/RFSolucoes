@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Link do Mapa do Site para Mecanismos de Busca
+Sitemap: https://rssolucoes.com.br/sitemap.xml
