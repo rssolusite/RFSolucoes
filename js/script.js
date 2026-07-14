@@ -208,7 +208,7 @@ const servicesData = {
     title: 'Portaria e Controle de Acesso',
     intro: 'O serviço de portaria é essencial para manter a organização, segurança e controle do fluxo de pessoas em empresas, condomínios residenciais e instituições. A RF Soluções disponibiliza profissionais altamente preparados para atuar no controle de acessos físico e de veículos.',
     details: 'Nossos colaboradores efetuam recepção de visitantes, cadastro e registro sistemático de entradas e saídas, atendimento telefônico associado à triagem rápida, triagem e recebimento de encomendas, além de apoio e reporte imediato a qualquer incidente operacional.<br><br>Uma portaria eficiente e cordial é o primeiro cartão de visitas da sua empresa, garantindo seriedade e profissionalismo logo no primeiro contato.',
-    whyTitle: 'Por que escolher a RS Soluções?',
+    whyTitle: 'Por que escolher a RF Soluções?',
     whyDesc: 'Mais do que simplesmente controlar acessos, nossa equipe atua com foco em cordialidade, responsabilidade e atenção constante. Nossos porteiros passam por capacitação comportamental e técnica para lidar com diferentes fluxos e protocolos de segurança personalizados.'
   },
   limpeza: {
