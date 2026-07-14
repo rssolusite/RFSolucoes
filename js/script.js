@@ -198,15 +198,15 @@ const servicesData = {
   vigilancia: {
     icon: 'fa-shield-halved',
     title: 'Vigilância Patrimonial',
-    intro: 'A segurança é um dos pilares fundamentais para o bom funcionamento de qualquer ambiente corporativo, comercial, industrial ou residencial. A RS Soluções oferece serviços de vigilância voltados à proteção patrimonial, prevenção de riscos e apoio à segurança operacional, sempre com responsabilidade, discrição e comprometimento.',
+    intro: 'A segurança é um dos pilares fundamentais para o bom funcionamento de qualquer ambiente corporativo, comercial, industrial ou residencial. A RF Soluções oferece serviços de vigilância voltados à proteção patrimonial, prevenção de riscos e apoio à segurança operacional, sempre com responsabilidade, discrição e comprometimento.',
     details: 'Nossa equipe atua de forma preventiva, auxiliando no monitoramento do ambiente, controle de movimentações e suporte à manutenção da ordem e segurança do local, contribuindo para um ambiente mais protegido e organizado.<br><br>O serviço é desenhado sob medida para cada cliente, analisando-se o fluxo de pessoas, as particularidades estruturais do imóvel e a rotina operacional do local.',
-    whyTitle: 'Por que escolher a RS Soluções?',
-    whyDesc: 'Na RS Soluções, entendemos que segurança exige máxima confiança. Trabalhamos com profissionais rigorosamente selecionados e treinados, atendimento operacional próximo e supervisão contínua, oferecendo um suporte eficiente e alinhado à realidade de cada cliente.'
+    whyTitle: 'Por que escolher a RF Soluções?',
+    whyDesc: 'Na RF Soluções, entendemos que segurança exige máxima confiança. Trabalhamos com profissionais rigorosamente selecionados e treinados, atendimento operacional próximo e supervisão contínua, oferecendo um suporte eficiente e alinhado à realidade de cada cliente.'
   },
   portaria: {
     icon: 'fa-door-open',
     title: 'Portaria e Controle de Acesso',
-    intro: 'O serviço de portaria é essencial para manter a organização, segurança e controle do fluxo de pessoas em empresas, condomínios residenciais e instituições. A RS Soluções disponibiliza profissionais altamente preparados para atuar no controle de acessos físico e de veículos.',
+    intro: 'O serviço de portaria é essencial para manter a organização, segurança e controle do fluxo de pessoas em empresas, condomínios residenciais e instituições. A RF Soluções disponibiliza profissionais altamente preparados para atuar no controle de acessos físico e de veículos.',
     details: 'Nossos colaboradores efetuam recepção de visitantes, cadastro e registro sistemático de entradas e saídas, atendimento telefônico associado à triagem rápida, triagem e recebimento de encomendas, além de apoio e reporte imediato a qualquer incidente operacional.<br><br>Uma portaria eficiente e cordial é o primeiro cartão de visitas da sua empresa, garantindo seriedade e profissionalismo logo no primeiro contato.',
     whyTitle: 'Por que escolher a RS Soluções?',
     whyDesc: 'Mais do que simplesmente controlar acessos, nossa equipe atua com foco em cordialidade, responsabilidade e atenção constante. Nossos porteiros passam por capacitação comportamental e técnica para lidar com diferentes fluxos e protocolos de segurança personalizados.'
@@ -214,25 +214,25 @@ const servicesData = {
   limpeza: {
     icon: 'fa-broom',
     title: 'Limpeza e Zeladoria',
-    intro: 'Manter um ambiente higienizado, organizado e bem conservado é indispensável para zelar pelo bem-estar de colaboradores, clientes e moradores, além de valorizar o patrimônio físico. A RS Soluções oferece serviços integrados de limpeza comercial, industrial e condominial.',
+    intro: 'Manter um ambiente higienizado, organizado e bem conservado é indispensável para zelar pelo bem-estar de colaboradores, clientes e moradores, além de valorizar o patrimônio físico. A RF Soluções oferece serviços integrados de limpeza comercial, industrial e condominial.',
     details: 'Nossos profissionais cobrem desde a limpeza diária geral até rotinas mais específicas de conservação e higienização profunda. Atuamos também com a figura do zelador, que acompanha de perto as demandas de manutenção predial corretiva e preventiva simples, gerenciando o uso de insumos, a coleta de resíduos e a inspeção diária das instalações.',
-    whyTitle: 'Por que escolher a RS Soluções?',
+    whyTitle: 'Por que escolher a RF Soluções?',
     whyDesc: 'Entendemos que um ambiente limpo impacta na produtividade, saúde e imagem corporativa. Trabalhamos com processos estruturados, cronogramas de limpeza planejados de acordo com a movimentação do local, e supervisores que avaliam periodicamente a qualidade de entrega de nossos colaboradores.'
   },
   jardinagem: {
     icon: 'fa-leaf',
     title: 'Jardinagem e Conservação de Áreas Verdes',
-    intro: 'Áreas verdes bem cuidadas e harmoniosas transformam a estética de condomínios, sedes corporativas e hotéis, transmitindo cuidado, leveza e profissionalismo. A RS Soluções oferece manutenção e revitalização completa de jardins e gramados.',
+    intro: 'Áreas verdes bem cuidadas e harmoniosas transformam a estética de condomínios, sedes corporativas e hotéis, transmitindo cuidado, leveza e profissionalismo. A RF Soluções oferece manutenção e revitalização completa de jardins e gramados.',
     details: 'Os serviços englobam poda de árvores de pequeno porte, corte e contenção de gramados, adubação periódica, irrigação orientada, controle básico de pragas do solo, limpeza de canteiros e plantio de novas mudas e forrações conforme projeto paisagístico.<br><br>Nossos profissionais entendem o manejo correto de cada espécie para manter a saúde e beleza das plantas durante o ano todo.',
-    whyTitle: 'Por que escolher a RS Soluções?',
+    whyTitle: 'Por que escolher a RF Soluções?',
     whyDesc: 'Nossa equipe atua com as ferramentas adequadas, equipamentos de proteção individual (EPIs) corretos e profunda dedicação aos detalhes. ZELAMOS por cada folha para que seus espaços externos tornem-se verdadeiros pontos de orgulho visual para quem frequenta.'
   },
   terceirizacao: {
     icon: 'fa-users-gear',
     title: 'Terceirização e Soluções Sob Medida',
-    intro: 'Cada organização apresenta desafios operacionais muito específicos. Para suprir demandas que fogem dos escopos tradicionais, a RS Soluções disponibiliza profissionais qualificados e mão de obra terceirizada para diversas áreas de suporte e infraestrutura.',
+    intro: 'Cada organização apresenta desafios operacionais muito específicos. Para suprir demandas que fogem dos escopos tradicionais, a RF Soluções disponibiliza profissionais qualificados e mão de obra terceirizada para diversas áreas de suporte e infraestrutura.',
     details: 'Atendemos demandas de contratação contínua ou temporária (como cobertura de férias, licenças médicas, aumentos sazonais de produção ou projetos pontuais). Podemos fornecer profissionais para apoio administrativo, recepção bilíngue, copeiragem premium, motoristas operacionais, carga/descarga e almoxarifado.<br><br>Com nossa solução, sua empresa elimina burocracias trabalhistas e de seleção, mantendo o foco integral no Core Business.',
-    whyTitle: 'Por que escolher a RS Soluções?',
+    whyTitle: 'Por que escolher a RF Soluções?',
     whyDesc: 'Nosso grande diferencial é a flexibilidade contratual e a agilidade na reposição e mobilização de profissionais. Analisamos rigorosamente o perfil técnico e cultural exigido pela sua empresa para entregar um profissional pronto para somar no seu dia a dia.'
   }
 };
